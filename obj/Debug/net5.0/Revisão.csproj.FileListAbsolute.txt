@@ -1,0 +1,16 @@
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.csproj.AssemblyReference.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfoInputs.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfo.cs
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.csproj.CoreCompileInputs.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\bin\Debug\net5.0\Revisão.exe
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\bin\Debug\net5.0\Revisão.deps.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.dev.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\bin\Debug\net5.0\Revisão.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\bin\Debug\net5.0\ref\Revisão.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\bin\Debug\net5.0\Revisão.pdb
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\ref\Revisão.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.pdb
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\Revisão\obj\Debug\net5.0\Revisão.genruntimeconfig.cache
